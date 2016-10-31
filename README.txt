@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/zoez/pen/RRXmbj.
+An electronic calculator. You can do numeric calculation with it.
 
  
